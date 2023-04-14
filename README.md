@@ -8,19 +8,21 @@ Recording a data on client-side. Don't need server-side script, using only playe
 
 ## Installation
 
-1. [Download](https://www.blast.hk/moonloader/download.php) and install moonloader from [official website](https://www.blast.hk/)
+1. [Download](https://sampforum.blast.hk/files/03DL/sa-mp-0.3.DL-R1-install.exe) and install samp 0.3 DL client from samp forums archive;
+
+2. [Download](https://www.blast.hk/moonloader/download.php) and install moonloader from [official website](https://www.blast.hk/);
 
      _to get extra informatiom you can visit_ [forum thread page](https://www.blast.hk/threads/13305/)
 
-2. Download Client-side script. You can find it in [Client](Client/) folder of repository or in [Releases](https://github.com/d7KrEoL/TacViewSA/releases) section;
+3. Download Client-side script. You can find it in [Client](Client/) folder of repository or in [Releases](https://github.com/d7KrEoL/TacViewSA/releases) section;
 
-3. Unzip all files to GTASA/moonloader folder; 
+4. Unzip all files to GTASA/moonloader folder; 
 
       _TacViewSA.lua should be in 'modloader' root folder (RF), 
       switch.lua in RF/lib, 
       TVRec.lua in RF/resources/tvsa_
 
-4. After entering the server type /tvrec to start/stop recording. Your recorded files will be in RF/resources/tvsa folder.
+5. After entering the server type /tvrec to start/stop recording. Your recorded files will be in RF/resources/tvsa folder.
 
 
 
