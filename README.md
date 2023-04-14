@@ -36,7 +36,7 @@ Script is only avaliable for private beta-access now, going into a public releas
 
 
 
-# TacViewSA - RU
+# TacViewSA - [RU](README.md#tacviewsa---ru) - [ENG](README.md#tacviewsa---eng---ru)
 
 Скрипт, позволяющий сохранять данные формата _.acmi_ телеметрии в процессе игры для выгрузки их в программу [TacView](https://www.tacview.net/). Планируется создать **клиентский (_Moonloader/Lua_)** и **серверный (_Pawn_)** скрипты (независимые друг от друга).
 
