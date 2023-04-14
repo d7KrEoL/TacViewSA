@@ -4,7 +4,7 @@ Saving samp game telemetry and exporting into tacview. There will be a **client-
 
 # [Client-Side](Client/) tacview recorder:
 
-Works with moonloader _v.026.5-beta_. You will also need SAMP client version _0.3DL_ installed on your GTA San Andreas.
+Recording a data on client-side. Don't need server-side script, using only player's resources, output files can be modified by player, script can also be modified to record a wrong data. Works fine with moonloader _v.026.5-beta_. You will also need SAMP client version _0.3DL_ installed on your GTA San Andreas.
 
 ## Installation
 
@@ -26,4 +26,4 @@ Works with moonloader _v.026.5-beta_. You will also need SAMP client version _0.
 
 # Server-Side tacview recorder:
 
-## Coming soon
+Recording a data on server-side. Don't need client-side script to be installed on GTASA of players. Using server resources, files are saving on server, so cannot be modified by players, script can't be modified as well. Will be versions for SAMP 0.3.7-R2 and 0.3DL servers.
