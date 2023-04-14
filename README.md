@@ -18,9 +18,9 @@ Recording a data on client-side. Don't need server-side script, using only playe
 
 4. Unzip all files to GTASA/moonloader folder; 
 
-      _TacViewSA.lua should be in 'moonloader' root folder (RF), 
-      switch.lua in RF/lib, 
-      TVRec.lua in RF/resources/tvsa_
+      _TacViewSA.lua should be in 'moonloader' root folder (GTA/moonliader), 
+      switch.lua in GTA/moonliader/lib, 
+      TVRec.lua in GTA/moonliader/resources/tvsa_
 
 5. After entering the server type /tvrec to start/stop recording. Your recorded files will be in RF/resources/tvsa folder. Default filename is TVRec.acmi.
 
@@ -56,9 +56,9 @@ Script is only avaliable for private beta-access now, going into a public releas
 
 4. Разархивируйте содержимое в папку с игрой/moonloader; 
 
-      _TacViewSA.lua должен лежать в папке 'moonloader' (далее КП), 
-      switch.lua в КП/lib, 
-      TVRec.lua в КП/resources/tvsa,
+      _TacViewSA.lua должен лежать в папке 'moonloader' (ГТА/moonloader), 
+      switch.lua в ГТА/moonloader/lib, 
+      TVRec.lua в ГТА/moonloader/resources/tvsa,
       при отсутствии какой-либо из папок просто создайте её_
 
 5. Далее можете заходить в игру, после присоединения к серверу и спавна введите /tvrec для начала/окончания записи. записанные файлы будут храниться в папке с игрой/moonloader/resources/tvsa/(название файла).acmi. По умолчанию файл называется TVRec.acmi.
