@@ -18,7 +18,7 @@ Recording a data on client-side. Don't need server-side script, using only playe
 
 4. Unzip all files to GTASA/moonloader folder; 
 
-      _TacViewSA.lua should be in 'modloader' root folder (RF), 
+      _TacViewSA.lua should be in 'moonloader' root folder (RF), 
       switch.lua in RF/lib, 
       TVRec.lua in RF/resources/tvsa_
 
@@ -56,7 +56,7 @@ Script is only avaliable for private beta-access now, going into a public releas
 
 4. Разархивируйте содержимое в папку с игрой/moonloader; 
 
-      _TacViewSA.lua должен лежать в папке 'modloader' (далее КП), 
+      _TacViewSA.lua должен лежать в папке 'moonloader' (далее КП), 
       switch.lua в КП/lib, 
       TVRec.lua в КП/resources/tvsa,
       при отсутствии какой-либо из папок просто создайте её_
