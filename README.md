@@ -1,4 +1,4 @@
-# TacViewSA - ENG
+# TacViewSA - [ENG](README.md#tacviewsa---eng---ru) - [RU](README.md#tacviewsa---ru)
 
 Saving samp game telemetry and exporting into tacview. There will be a **client-side (_Moonloader/Lua_)** and **server-side (_Pawn_)** scripts. Both will record **_.acmi_**-formated telemetry data from GTASA to load into [TacView](https://www.tacview.net/).
 
