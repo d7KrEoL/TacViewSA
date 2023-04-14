@@ -1,12 +1,12 @@
 # TacViewSA
 
-Saving samp game telemetry and exporting into tacview. There will be a **client-side (_Moonloader/Lua_)** and **server-side (_Pawn_)** scripts. Both will record **_.acmi_**-formated telemetry data from GTASA to load into TacView (https://www.tacview.net/).
+Saving samp game telemetry and exporting into tacview. There will be a **client-side (_Moonloader/Lua_)** and **server-side (_Pawn_)** scripts. Both will record **_.acmi_**-formated telemetry data from GTASA to load into [TacView](https://www.tacview.net/).
 
 # [Client-Side](Client/) tacview recorder:
 
 Works with moonloader _v.026.5-beta_. You will also need SAMP client version _0.3DL_ installed on your GTA San Andreas.
 
-##Installation
+## Installation
 
 1. [Download](https://www.blast.hk/moonloader/download.php) and install moonloader from [official website](https://www.blast.hk/)
 
@@ -24,6 +24,6 @@ Works with moonloader _v.026.5-beta_. You will also need SAMP client version _0.
 
 
 
-#Server-Side tacview recorder:
+# Server-Side tacview recorder:
 
-Not yet ready.
+## Coming soon
