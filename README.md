@@ -26,4 +26,4 @@ Recording a data on client-side. Don't need server-side script, using only playe
 
 # Server-Side tacview recorder:
 
-Recording a data on server-side. Don't need client-side script to be installed on GTASA of players. Using server resources, files are saving on server, so cannot be modified by players, script can't be modified as well. Will be versions for SAMP 0.3.7-R2 and 0.3DL servers.
+Recording a data on server side. Don't need client-side script to be installed on GTASA of players. Using server resources, files are saving on server, so cannot be modified by players, script can't be modified as well. Will be versions for SAMP 0.3.7-R2 and 0.3DL servers.
