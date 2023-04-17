@@ -75,7 +75,7 @@ function main()
 						PosY = PosY/100000
 						RotX = 0
 						RotY = 0
-						RotZ = getCharHeading(v)*-1
+						RotZ = getCharHeading(v)+180*-1
 						PH=getCharHealth(v)
 						playerid = playerid + 100
 						if PH == 0 then 
