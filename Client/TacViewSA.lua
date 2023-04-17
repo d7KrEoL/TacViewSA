@@ -38,7 +38,6 @@ function main()
 
 	function GetAllPlayersPos()
 		local peds = getAllChars()
-		--local ids = {}
 		local CharCar
 		local pName
 		local PosX, PosY, PosZ, RotX, RotY, RotZ, tmpx
@@ -76,7 +75,7 @@ function main()
 						PosY = PosY/100000
 						RotX = 0
 						RotY = 0
-						RotZ = getCharHeading(v)+180
+						RotZ = getCharHeading(v)*-1
 						PH=getCharHealth(v)
 						playerid = playerid + 100
 						if PH == 0 then 
@@ -134,7 +133,7 @@ function main()
 	end
 	
 	function WriteFileStr(strr)
-		if not TVRec == nil
+		if TVRec
 		then
 			TVRec:write(strr)
 		end
