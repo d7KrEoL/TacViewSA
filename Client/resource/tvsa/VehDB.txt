@@ -1,0 +1,26 @@
+#This is default TacViewSA config file for SAMP WARS server
+407=Fuel Truck
+417=CH-53 Sea Stallion
+425=AH-64A Apache
+432=M1 Abrams
+447=SA 341 Gazelle
+460=Cessna 402
+464=MQ-9 Reaper
+465=MQ-1 Predator
+469=SA 342M Gazelle
+476=P-51D Mustang
+487=B206L-4 LongRanger IV
+488=B206 JetRanger
+497=B206 JetRanger
+501=MQ-1 Predator
+511=An-26
+512=Yak-1
+513=Eagle II
+519=Learjet 45
+520=AV-8B Harrier II
+548=CH-53 Sea Stallion
+553=DC-10
+563=CH-53E Super Stallion
+577=Boeing 737-800
+592=C-17 Globemaster III
+593=Cessna 402

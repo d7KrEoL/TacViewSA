@@ -1,0 +1,31 @@
+#This is default objects database of TacViewSA for SAMP WARS Server
+354=Flare
+345=AIM-9L Sidewinder
+-1225=AIM-9L Sidewinder
+-1226=AGM-65 Maverick
+-1227=AGM-65A Maverick
+-1229=X_58
+-1230=R-27ER (AA-10 Alamo-C)
+-1231=Kh-29 Kedge
+-1232=R-60 (AA-8 Aphid-A)
+-1233=9M330
+-1234=AGM-88 HARM
+-1236=S-8
+-1238=R-73 (AA-11 Archer)
+-1240=AT_6
+-1241=9M113 Konkurs
+-1242=MIM-72G Chaparral
+-1283=S-25
+-1328=AIM-120 AMRAAM
+-1355=X_25MP
+-1593=FAB-250
+-1594=Mk-82 AIR
+-1596=Mark 84
+-1597=FAB-500
+#-------------------------------------------------
+#Object is not yet defined, but it's a missiles-_-
+-1615=AIM-120 AMRAAM
+-1872=AIM-120 AMRAAM
+-1315=AIM-120 AMRAAM
+#-------------------------------------------------
+18643=weapons.shells.5_45x39_NOtr
